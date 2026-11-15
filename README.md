@@ -49,9 +49,7 @@ Free to use. Do whatever you consider useful for humanity. See main MIT license 
 ## Author
 
 <img src="https://raw.githubusercontent.com/testitquickly/Software-Testing-Glossary/master/images/alexei_lupan.jpg" alt="Alexei Lupan" height="200" align="right" />
-Alexei Lupan, old QA. I'm interested in complex test design problems, baritone guitar and Robert Heinlein's books.
-
-Email: astenix@testitquickly.com
+Alexei Lupan, QA. I'm interested in complex test design problems, baritone guitar and Robert Heinlein's books.
 
 Blog: [testitquickly.com](https://testitquickly.com/) (ru)
 
