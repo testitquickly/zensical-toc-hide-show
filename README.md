@@ -2,6 +2,8 @@
 
 A simple, pure CSS/JavaScript dependency-free front-end add-on that adds a header control to hide or show a native Zensical's **left navigation sidebar**. The right-hand page table of contents remains visible because it's useful on big documents. The user's choice is stored in the browser.
 
+[https://github.com/zensical/zensical](Zensical) is a modern static site generator built by the creators of Material for MkDocs. Write your documentation in Markdown and create a professional static site for your Open Source or commercial project in minutes – searchable, customizable, more than 60 languages, for all devices.
+
 ## Behavior
 
 - Hides only `.md-sidebar--primary`; the right page ToC remains visible.
