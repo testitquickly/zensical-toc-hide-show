@@ -1,0 +1,24 @@
+/* Hide the left primary navigation, keeping the right page ToC visible. */
+body.zensical-hide-show-toc .md-sidebar--primary { display: none; }
+
+/* Let the article use the space freed by the sidebar. */
+body.zensical-hide-show-toc .md-grid,
+body.zensical-hide-show-toc .md-main__inner { max-width: 100%; }
+
+.zensical-hide-show-toc__toggle {
+  margin-inline: 0.25rem;
+  padding: 0.35rem 0.55rem;
+  border: 0;
+  border-radius: 0.3rem;
+  background: transparent;
+  color: var(--md-default-fg-color);
+  font: inherit;
+  cursor: pointer;
+}
+.zensical-hide-show-toc__toggle:hover {
+  background: var(--md-default-fg-color--lightest);
+}
+.zensical-hide-show-toc__toggle:focus-visible {
+  outline: 2px solid var(--md-accent-fg-color);
+  outline-offset: 2px;
+}
